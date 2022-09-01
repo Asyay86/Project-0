@@ -1,5 +1,6 @@
-# Project-0
-Old cs1400 project
+# Project-0 
+For CS2400 Data Structures
+
 
 By: Zihan Guo
 
