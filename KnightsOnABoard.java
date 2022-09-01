@@ -3,6 +3,8 @@ import java.io.*;
 
 public class KnightsOnABoard{
 
+//This is a nice commment.
+
 public static void main(String[] args) throws Exception {
 	Scanner sc = new Scanner(System.in);
 	System.out.println("Enter a file name");
